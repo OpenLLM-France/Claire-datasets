@@ -343,19 +343,19 @@ This repository lists public conversational datasets in text formats.
 <tr>
   <td colspan="6"><h4>Spoken Dialogue</h4></td></tr>
 <tr>
-  <td><a href="#">Charlotte</a></td>
-  <td></td>
+  <td><a href="[#](https://anc.org/data/oanc/contents/#charlotte)">Charlotte Narratives</a></td>
+  <td>The Charlotte Narrative and Conversation Collection (CNCC) contains 95 narratives, conversations and interviews representative of the residents of Mecklenburg County, North Carolina and surrounding North Carolina communities.</td>
+  <td>200K</td>
   <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
+  <td>93</td>
+  <td><a href="[https://anc.org/data/oanc/contents/#charlotte](https://anc.org/data/oanc/contents/#charlotte](https://anc.org/data/oanc/download/)">Available for download and use for research and development, including commercial development.</a></td>
 </tr>
 <tr>
-  <td><a href="https://catalog.ldc.upenn.edu/LDC97S62">Switchboard</a></td>
+  <td><a href="https://anc.org/data/oanc/contents/#switchboard">Switchboard</a></td>
   <td>The corpus consists of approximately 260 hours of speech and was originally collected by Texas Instruments in 1990-1, under DARPA sponsorship.</td>
-  <td>134K</td>
+  <td>3M</td>
   <td>-</td>
-  <td>-</td>
+  <td>2320</td>
   <td><a href="https://catalog.ldc.upenn.edu/LDC97S62">LDC User Agreement for Non-Members</a></td>
 </tr>
    
@@ -366,8 +366,8 @@ This repository lists public conversational datasets in text formats.
   <td>MediaSum dataset for summarization</td>
   <td>720M</td>
   <td>-</td>
-  <td>-</td>
-  <td>No license specified, but the authors have requested that this dataset be used for research purposes only.</td>
+  <td>458K</td>
+  <td><a href="https://github.com/zcgzcgzcg1/MediaSum">For research purposes only</a></td>
 </tr>
 
 <tr>
@@ -377,7 +377,7 @@ This repository lists public conversational datasets in text formats.
   <td>The AMI Meeting Corpus is a multi-modal data set consisting of 100 hours of meeting recordings.</td>
   <td>712K</td>
   <td>-</td>
-  <td>-</td>
+  <td></td>
   <td><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></td>
 </tr>
 <tr>
@@ -455,7 +455,7 @@ This repository lists public conversational datasets in text formats.
   <td>High-quality multi-turn dialog dataset.</td>
   <td>1.2M</td>
   <td>-</td>
-  <td>-</td>
+  <td>13K</td>
   <td><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></td>
 </tr>
 
@@ -465,9 +465,9 @@ This repository lists public conversational datasets in text formats.
 <tr>
   <td><a href="">British National Corpus (BNC)</a></td>
   <td>Collection of samples of written and spoken language from a wide range of sources, designed to represent a wide cross-section of British English, both spoken and written, from the late twentieth century.</td>
-  <td>100M</td>
+  <td>110M</td>
   <td>-</td>
-  <td>-</td>
+  <td>1K</td>
   <td><a href="http://www.natcorp.ox.ac.uk/docs/licence.html">BCN License</a></td>
 </tr>
 
