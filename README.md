@@ -343,7 +343,7 @@ This repository lists public conversational datasets in text formats.
 <tr>
   <td colspan="6"><h4>Spoken Dialogue</h4></td></tr>
 <tr>
-  <td><a href="[#](https://anc.org/data/oanc/contents/#charlotte)">Charlotte Narratives</a></td>
+  <td><a href="https://anc.org/data/oanc/contents/#charlotte">Charlotte Narratives</a></td>
   <td>The Charlotte Narrative and Conversation Collection (CNCC) contains 95 narratives, conversations and interviews representative of the residents of Mecklenburg County, North Carolina and surrounding North Carolina communities.</td>
   <td>200K</td>
   <td>-</td>
@@ -377,7 +377,7 @@ This repository lists public conversational datasets in text formats.
   <td>The AMI Meeting Corpus is a multi-modal data set consisting of 100 hours of meeting recordings.</td>
   <td>712K</td>
   <td>-</td>
-  <td></td>
+  <td><1K</td>
   <td><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></td>
 </tr>
 <tr>
@@ -385,7 +385,7 @@ This repository lists public conversational datasets in text formats.
   <td>About 70 hours of meeting recordings.</td>
   <td>804K</td>
   <td>-</td>
-  <td>-</td>
+  <td><1K</td>
   <td><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></td>
 </tr>
 
@@ -397,7 +397,7 @@ This repository lists public conversational datasets in text formats.
   <td>1.6M</td>
   <td>-</td>
   <td>-</td>
-  <td><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><</td>
+  <td><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></td>
 </tr>
 <tr>
   <td><a href="https://github.com/facebookresearch/opendialkg">OpenDialKG</a></td>
