@@ -336,7 +336,7 @@ This repository lists public conversational datasets in text formats.
   <td><a href="https://www.statmt.org/europarl/">Europarl</a></td>
   <td>The Europarl parallel corpus</td>
   <td>56M</td>
-  <td>-</td>
+  <td>214K</td>
   <td>11K</td>
   <td>No copyright restrictions. If you use this data in your research, please contact phi@jhu.edu</td>
 </tr>
@@ -346,7 +346,7 @@ This repository lists public conversational datasets in text formats.
   <td><a href="https://anc.org/data/oanc/contents/#charlotte">Charlotte Narratives</a></td>
   <td>The Charlotte Narrative and Conversation Collection (CNCC) contains 95 narratives, conversations and interviews representative of the residents of Mecklenburg County, North Carolina and surrounding North Carolina communities.</td>
   <td>200K</td>
-  <td>-</td>
+  <td>2.7K</td>
   <td>93</td>
   <td><a href="[https://anc.org/data/oanc/contents/#charlotte](https://anc.org/data/oanc/contents/#charlotte](https://anc.org/data/oanc/download/)">Available for download and use for research and development, including commercial development.</a></td>
 </tr>
@@ -354,7 +354,7 @@ This repository lists public conversational datasets in text formats.
   <td><a href="https://anc.org/data/oanc/contents/#switchboard">Switchboard</a></td>
   <td>The corpus consists of approximately 260 hours of speech and was originally collected by Texas Instruments in 1990-1, under DARPA sponsorship.</td>
   <td>3M</td>
-  <td>-</td>
+  <td>290K</td>
   <td>2320</td>
   <td><a href="https://catalog.ldc.upenn.edu/LDC97S62">LDC User Agreement for Non-Members</a></td>
 </tr>
@@ -365,7 +365,7 @@ This repository lists public conversational datasets in text formats.
   <td><a href="https://huggingface.co/datasets/ccdv/mediasum">MediaSum</a></td>
   <td>MediaSum dataset for summarization</td>
   <td>720M</td>
-  <td>-</td>
+  <td>13M</td>
   <td>458K</td>
   <td><a href="https://github.com/zcgzcgzcg1/MediaSum">For research purposes only</a></td>
 </tr>
@@ -376,15 +376,15 @@ This repository lists public conversational datasets in text formats.
   <td><a href="https://groups.inf.ed.ac.uk/ami/corpus/">AMI</a></td>
   <td>The AMI Meeting Corpus is a multi-modal data set consisting of 100 hours of meeting recordings.</td>
   <td>712K</td>
-  <td>-</td>
-  <td><1K</td>
+  <td>75K</td>
+  <td>139</td>
   <td><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></td>
 </tr>
 <tr>
   <td><a href="https://groups.inf.ed.ac.uk/ami/icsi/">ICSI</a></td>
   <td>About 70 hours of meeting recordings.</td>
   <td>804K</td>
-  <td>-</td>
+  <td>64K</td>
   <td><1K</td>
   <td><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></td>
 </tr>
@@ -394,49 +394,49 @@ This repository lists public conversational datasets in text formats.
 <tr>
   <td><a href="https://redialdata.github.io/website/">ReDial</a></td>
   <td>ReDial (Recommendation Dialogues) is an annotated dataset of dialogues, where users recommend movies to each other.</td>
-  <td>1.6M</td>
-  <td>-</td>
-  <td>-</td>
+  <td>1.5M</td>
+  <td>139K</td>
+  <td>11K</td>
   <td><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></td>
 </tr>
 <tr>
   <td><a href="https://github.com/facebookresearch/opendialkg">OpenDialKG</a></td>
   <td>OpenDialKG is a dataset of conversations between two crowdsourcing agents engaging in a dialog about a given topic.</td>
   <td>1M</td>
-  <td>-</td>
-  <td>-</td>
+  <td>84K</td>
+  <td>12K</td>
   <td><a href="https://creativecommons.org/licenses/by-nc/4.0/legalcode">CC-BY-NC-4.0</a></td>
 </tr>
 <tr>
   <td><a href="https://github.com/asappresearch/abcd">ABCD</a></td>
   <td>Action-Based Conversations Dataset.</td>
   <td>1.5M</td>
-  <td>-</td>
-  <td>-</td>
+  <td>142K</td>
+  <td>10K</td>
   <td><a href="https://github.com/asappresearch/abcd/blob/master/LICENSE">MIT</a></td>
 </tr>
 <tr>
   <td><a href="https://github.com/google/airdialogue">AirDialogue</a></td>
   <td>AirDialogue is a benchmark dataset for goal-oriented dialogue generation research.</td>
   <td>37M</td>
-  <td>-</td>
-  <td>-</td>
+  <td>4.6M</td>
+  <td>361K</td>
   <td><a href="https://github.com/google/airdialogue/blob/master/LICENSE">Apache License 2.0</a></td>
 </tr>
 <tr>
   <td><a href="https://huggingface.co/datasets/pfb30/multi_woz_v22">MULTIWOZ2_2</a></td>
   <td>Multi-Domain Wizard-of-Oz dataset (MultiWOZ), a fully-labeled collection of human-human written conversations spanning over multiple domains and topics.</td>
   <td>1.9M</td>
-  <td>-</td>
-  <td>-</td>
+  <td>143K</td>
+  <td>10.4K</td>
   <td><a href="https://choosealicense.com/licenses/apache-2.0/">Apache License 2.0</a></td>
 </tr>
 <tr>
   <td><a href="https://github.com/awslabs/multi-domain-goal-oriented-dialogues-dataset">MulDoGO</a></td>
   <td>Conversations from the airline, fastfood, finance, insurance, media, and software domains.</td>
   <td>10M</td>
-  <td>-</td>
-  <td>-</td>
+  <td>892K</td>
+  <td>63K</td>
   <td><a href="https://github.com/awslabs/multi-domain-goal-oriented-dialogues-dataset/blob/master/LICENSE.txt">CDLA Permissive License</a></td>
 </tr>
 
@@ -454,7 +454,7 @@ This repository lists public conversational datasets in text formats.
   <td><a href="https://huggingface.co/datasets/li2017dailydialog/daily_dialog">DailyDialog</a></td>
   <td>High-quality multi-turn dialog dataset.</td>
   <td>1.2M</td>
-  <td>-</td>
+  <td>102K</td>102K</td>
   <td>13K</td>
   <td><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></td>
 </tr>
@@ -466,8 +466,8 @@ This repository lists public conversational datasets in text formats.
   <td><a href="">British National Corpus (BNC)</a></td>
   <td>Collection of samples of written and spoken language from a wide range of sources, designed to represent a wide cross-section of British English, both spoken and written, from the late twentieth century.</td>
   <td>110M</td>
-  <td>-</td>
-  <td>1K</td>
+  <td>663K</td>
+  <td>0.9K</td>
   <td><a href="http://www.natcorp.ox.ac.uk/docs/licence.html">BCN License</a></td>
 </tr>
 
