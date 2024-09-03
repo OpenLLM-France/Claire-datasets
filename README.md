@@ -348,7 +348,7 @@ This repository lists public conversational datasets in text formats.
   <td>200K</td>
   <td>2.7K</td>
   <td>93</td>
-  <td><a href="[https://anc.org/data/oanc/contents/#charlotte](https://anc.org/data/oanc/contents/#charlotte](https://anc.org/data/oanc/download/)">Available for download and use for research and development, including commercial development.</a></td>
+  <td><a href="https://anc.org/data/oanc/download/">Available for download and use for research and development, including commercial development</a></td>
 </tr>
 <tr>
   <td><a href="https://anc.org/data/oanc/contents/#switchboard">Switchboard</a></td>
@@ -356,14 +356,14 @@ This repository lists public conversational datasets in text formats.
   <td>3M</td>
   <td>290K</td>
   <td>2320</td>
-  <td><a href="https://catalog.ldc.upenn.edu/LDC97S62">LDC User Agreement for Non-Members</a></td>
+  <td><a href="https://catalog.ldc.upenn.edu/LDC97S62">LDC User Ageement for Non-Members</a></td>
 </tr>
    
 <tr>
   <td colspan="6"><h4>Broadcast</h4></td></tr>
 <tr>
-  <td><a href="https://huggingface.co/datasets/ccdv/mediasum">MediaSum</a></td>
-  <td>MediaSum dataset for summarization</td>
+  <td><a href="https://huggingface.co/datasets/Salesforce/dialogstudio">MediaSum</a> <a href="https://huggingface.co/datasets/ccdv/mediasum">(GitHub)</a></td>
+  <td>MediaSum dataset for summarization. A collection of transcripts of CNN and NPR interviews with short summaries.</td>
   <td>720M</td>
   <td>13M</td>
   <td>458K</td>
@@ -373,42 +373,42 @@ This repository lists public conversational datasets in text formats.
 <tr>
   <td colspan="6"><h4>Meetings</h4></td></tr>
 <tr>
-  <td><a href="https://groups.inf.ed.ac.uk/ami/corpus/">AMI</a></td>
+  <td><a href="https://github.com/guokan-shang/ami-and-icsi-corpora">AMI</a> <a href="https://groups.inf.ed.ac.uk/ami/corpus/">(project page)</a></td>
   <td>The AMI Meeting Corpus is a multi-modal data set consisting of 100 hours of meeting recordings.</td>
   <td>712K</td>
   <td>75K</td>
   <td>139</td>
-  <td><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></td>
+  <td><a href="https://groups.inf.ed.ac.uk/ami/corpus/">CC BY 4.0</a></td>
 </tr>
 <tr>
-  <td><a href="https://groups.inf.ed.ac.uk/ami/icsi/">ICSI</a></td>
+  <td><a href="https://github.com/guokan-shang/ami-and-icsi-corpora">ICSI</a> <a href="https://groups.inf.ed.ac.uk/ami/icsi/">(project page)</a></td>
   <td>About 70 hours of meeting recordings.</td>
   <td>804K</td>
   <td>64K</td>
   <td><1K</td>
-  <td><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></td>
+  <td><a href="https://groups.inf.ed.ac.uk/ami/icsi/">CC BY 4.0</a></td>
 </tr>
 
 <tr>
   <td colspan="6"><h4>Assistance</h4></td></tr>
 <tr>
-  <td><a href="https://redialdata.github.io/website/">ReDial</a></td>
+  <td><a href="https://huggingface.co/datasets/Salesforce/dialogstudio/tree/main/conversational_recommendation/Redial">ReDial</a> <a href="https://redialdata.github.io/website/">(GitHub)</a></td>
   <td>ReDial (Recommendation Dialogues) is an annotated dataset of dialogues, where users recommend movies to each other.</td>
   <td>1.5M</td>
   <td>139K</td>
   <td>11K</td>
-  <td><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></td>
+  <td><a href="https://redialdata.github.io/website/">CC BY 4.0</a></td>
 </tr>
 <tr>
-  <td><a href="https://github.com/facebookresearch/opendialkg">OpenDialKG</a></td>
+  <td><a href="https://huggingface.co/datasets/Salesforce/dialogstudio/tree/main/conversational_recommendation/OpenDialKG">OpenDialKG</a> <a href="https://github.com/facebookresearch/opendialkg">(GitHub)</a></td>
   <td>OpenDialKG is a dataset of conversations between two crowdsourcing agents engaging in a dialog about a given topic.</td>
   <td>1M</td>
   <td>84K</td>
   <td>12K</td>
-  <td><a href="https://creativecommons.org/licenses/by-nc/4.0/legalcode">CC-BY-NC-4.0</a></td>
+  <td><a href="https://github.com/facebookresearch/opendialkg">CC-BY-NC-4.0</a></td>
 </tr>
 <tr>
-  <td><a href="https://github.com/asappresearch/abcd">ABCD</a></td>
+  <td><a href="https://huggingface.co/datasets/Salesforce/dialogstudio/tree/main/task_oriented/ABCD">ABCD</a> <a href="https://github.com/asappresearch/abcd">(GitHub)</a></td>
   <td>Action-Based Conversations Dataset.</td>
   <td>1.5M</td>
   <td>142K</td>
@@ -416,7 +416,7 @@ This repository lists public conversational datasets in text formats.
   <td><a href="https://github.com/asappresearch/abcd/blob/master/LICENSE">MIT</a></td>
 </tr>
 <tr>
-  <td><a href="https://github.com/google/airdialogue">AirDialogue</a></td>
+  <td><a href="https://huggingface.co/datasets/Salesforce/dialogstudio/tree/main/task_oriented/AirDialogue">AirDialogue</a> <a href="https://github.com/google/airdialogue">(GitHub)</a></td>
   <td>AirDialogue is a benchmark dataset for goal-oriented dialogue generation research.</td>
   <td>37M</td>
   <td>4.6M</td>
@@ -424,15 +424,15 @@ This repository lists public conversational datasets in text formats.
   <td><a href="https://github.com/google/airdialogue/blob/master/LICENSE">Apache License 2.0</a></td>
 </tr>
 <tr>
-  <td><a href="https://huggingface.co/datasets/pfb30/multi_woz_v22">MULTIWOZ2_2</a></td>
+  <td><a href="https://huggingface.co/datasets/Salesforce/dialogstudio/tree/main/task_oriented/MULTIWOZ2_2">MULTIWOZ2_2</a> <a href="https://huggingface.co/datasets/pfb30/multi_woz_v22">(pfb30)</a></td>
   <td>Multi-Domain Wizard-of-Oz dataset (MultiWOZ), a fully-labeled collection of human-human written conversations spanning over multiple domains and topics.</td>
   <td>1.9M</td>
   <td>143K</td>
   <td>10.4K</td>
-  <td><a href="https://choosealicense.com/licenses/apache-2.0/">Apache License 2.0</a></td>
+  <td><a href="https://huggingface.co/datasets/pfb30/multi_woz_v22">Apache License 2.0</a></td>
 </tr>
 <tr>
-  <td><a href="https://github.com/awslabs/multi-domain-goal-oriented-dialogues-dataset">MulDoGO</a></td>
+  <td><a href="https://huggingface.co/datasets/Salesforce/dialogstudio/tree/main/task_oriented/MulDoGO">MulDoGO2</a> <a href="https://github.com/awslabs/multi-domain-goal-oriented-dialogues-dataset">(GitHub)</a></td>
   <td>Conversations from the airline, fastfood, finance, insurance, media, and software domains.</td>
   <td>10M</td>
   <td>892K</td>
@@ -443,7 +443,7 @@ This repository lists public conversational datasets in text formats.
 <tr>
   <td colspan="6"><h4>Free Chat</h4></td></tr>
 <tr>
-  <td><a href="https://github.com/BYU-PCCL/chitchat-dataset">Chit-Chat</a></td>
+  <td><a href="https://huggingface.co/datasets/Salesforce/dialogstudio/tree/main/open_domain/chitchat-dataset">Chit-Chat</a> <a href="https://github.com/BYU-PCCL/chitchat-dataset">(GitHub)</a></td>
   <td>Open-domain conversational dataset from the BYU Perception, Control & Cognition lab's Chit-Chat Challenge.</td>
   <td>2.3M</td>
   <td>7.1K</td>
@@ -456,14 +456,14 @@ This repository lists public conversational datasets in text formats.
   <td>1.2M</td>
   <td>102K</td>102K</td>
   <td>13K</td>
-  <td><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></td>
+  <td><a href="https://huggingface.co/datasets/li2017dailydialog/daily_dialog">CC BY-NC-SA 4.0</a></td>
 </tr>
 
 
 <tr>
   <td colspan="6"><h4>Misc</h4></td></tr>
 <tr>
-  <td><a href="">British National Corpus (BNC)</a></td>
+  <td><a href="http://www.phon.ox.ac.uk/AudioBNC#Access">British National Corpus (BNC)</a></td>
   <td>Collection of samples of written and spoken language from a wide range of sources, designed to represent a wide cross-section of British English, both spoken and written, from the late twentieth century.</td>
   <td>110M</td>
   <td>663K</td>
@@ -482,6 +482,10 @@ This repository lists public conversational datasets in text formats.
   * _Dataset:_ [🤗 OpenLLM-France/Claire-Dialogue-French-0.1](https://huggingface.co/datasets/OpenLLM-France/Claire-Dialogue-French-0.1)
   * _Paper:_ Julie Hunter, Jérôme Louradour, Virgile Rennard, Ismaïl Harrando, Guokan Shang, Jean-Pierre Lorré
     «&nbsp;Claire French Dialogue Dataset&nbsp;» (2023)
+
+* **Claire English Dialogue Dataset (CFDD)** 🇫🇷
+  * _Dataset:_ [🤗 OpenLLM-France/Claire-Dialogue-English-0.1](https://huggingface.co/datasets/OpenLLM-France/Claire-Dialogue-English-0.1)
+
 
 
 
