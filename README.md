@@ -454,7 +454,7 @@ This repository lists public conversational datasets in text formats.
   <td><a href="https://huggingface.co/datasets/li2017dailydialog/daily_dialog">DailyDialog</a></td>
   <td>High-quality multi-turn dialog dataset.</td>
   <td>1.2M</td>
-  <td>102K</td>102K</td>
+  <td>102K</td>
   <td>13K</td>
   <td><a href="https://huggingface.co/datasets/li2017dailydialog/daily_dialog">CC BY-NC-SA 4.0</a></td>
 </tr>
